@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask,render_template,request
 from werkzeug.routing import BaseConverter
 
 class RegexConverter(BaseConverter):
@@ -25,6 +25,14 @@ def about():
 def user(user_id):
     return 'User %s' % user_id
 
+@app.route('/projects/')
+@app.route('/our-works/')
+def projects():
+    return 'The project page'
+
+@app.route('/login',methods=['GET','POST'])
+def login():
+    return render_template('login.html', method=request.method)
 
 if __name__ == '__main__':
     app.run(debug=True)
