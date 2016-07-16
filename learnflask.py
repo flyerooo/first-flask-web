@@ -15,5 +15,9 @@ def services():
 def about():
     return 'About'
 
+@app.route('/user/<int:user_id>')
+def user(user_id):
+    return 'User %s' % user_id
+
 if __name__ == '__main__':
     app.run(debug=True)
