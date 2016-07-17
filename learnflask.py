@@ -64,6 +64,13 @@ def upload():
 def page_not_found(error):
     return  render_template('404.html'), 404
 
+@manager.command
+def dev():
+    from livereload import Server
+    liver_server= Server(app.wsgi_app)
+    liver_server.watch('static/*.*')
+    liver_server.serve(open_url=True)
+
 if __name__ == '__main__':
     manager.run()
     # app.run(debug=True)
