@@ -5,8 +5,8 @@
     <title>{{ title }}</title>
 </head>
 <body>
-    {%  autoescape false %}
-        {{  title }}
-    {%  endautoescape %}
+    {{ title|safe }}
+    {{ body|md|safe }}
+    {{ read_md('http_methods.md')|md|safe }}
 </body>
 </html>
