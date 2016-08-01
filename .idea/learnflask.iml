@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 2.7.12 virtualenv at F:\flask\flask_1" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Interview" />
     <orderEntry type="module" module-name="Practical_programming_An_Introduction_to_Computer_Science_Using_Paython" />
+    <orderEntry type="module" module-name="interviewprojects" />
+    <orderEntry type="module" module-name="Interview_Python" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
