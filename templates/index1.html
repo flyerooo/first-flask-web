@@ -1,12 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ title }}</title>
-</head>
-<body>
-    {{ title|safe }}
-    {{ body|md|safe }}
-    {{ read_md('http_methods.md')|md|safe }}
-</body>
-</html>
+{% extends 'base.html' %}
+{% block title %}{{ title }}{% endblock %}
+{% block content %}
+{% set links=[
+        {'lable':'Home', 'hrf':url_for('.index')},
+        {'lable':'About', 'hrf':url_for('.about')},
+        {'lable':'Services', 'hrf':url_for('.services')},
+        {'lable':'Projects', 'hrf':url_for('.projects')},
+
+]
+        %}
+
+<nav>
+    {% for link in links %}
+        {% if not loop.first %}
+        <a href="{{ link.href }}">{{ link.lable }}</a>
+    {% endfor %}
+</nav>
+    <h1>{{ self.title() }}</h1>
+    {% endblock %}
+{% endblock %}
