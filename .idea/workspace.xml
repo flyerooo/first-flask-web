@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ab83b1-ad8b-4a95-843d-e75afe4466b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex7.py" />
+    <list default="true" id="43ab83b1-ad8b-4a95-843d-e75afe4466b9" name="Default" comment="exercise">
+      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex10.py" />
+      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex11.py" />
+      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex12.py" />
+      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex8.py" />
+      <change type="NEW" beforePath="" afterPath="F:/Interview_Python/Decorator/ex9.py" />
+      <change type="MODIFICATION" beforePath="F:/Interview_Python/Decorator/ex7.py" afterPath="F:/Interview_Python/Decorator/ex7.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learnflask.iws" />
@@ -19,17 +24,22 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/learnflask$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1470153305056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1470043402920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
+    <SUITE FILE_PATH="coverage/learnflask$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1470323822175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1469955913794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview" />
-    <SUITE FILE_PATH="coverage/learnflask$ex7.coverage" NAME="ex7 Coverage Results" MODIFIED="1470239685899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
+    <SUITE FILE_PATH="coverage/learnflask$ex7.coverage" NAME="ex7 Coverage Results" MODIFIED="1470242265887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$exthook.coverage" NAME="exthook Coverage Results" MODIFIED="1469246186772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python27/Lib/site-packages/flask" />
     <SUITE FILE_PATH="coverage/learnflask$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1470044778142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
+    <SUITE FILE_PATH="coverage/learnflask$ex8.coverage" NAME="ex8 Coverage Results" MODIFIED="1470291606291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1469898214046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview" />
     <SUITE FILE_PATH="coverage/learnflask$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1470133462145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$learnflask.coverage" NAME="learnflask Coverage Results" MODIFIED="1469246208069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/learnflask$app.coverage" NAME="app Coverage Results" MODIFIED="1469317550633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnflask$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1469317852325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnflask$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1470312618641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
+    <SUITE FILE_PATH="coverage/learnflask$ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1470303609380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1470153302258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
     <SUITE FILE_PATH="coverage/learnflask$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1469966673941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview" />
+    <SUITE FILE_PATH="coverage/learnflask$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1470319666553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/Interview_Python/Decorator" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -40,11 +50,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex7.py" pinned="false" current-in-tab="true">
-        <entry file="file://F:/Interview_Python/Decorator/ex7.py">
+      <file leaf-file-name="ex11.py" pinned="false" current-in-tab="false">
+        <entry file="file://F:/Interview_Python/Decorator/ex11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex12.py" pinned="false" current-in-tab="true">
+        <entry file="file://F:/Interview_Python/Decorator/ex12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -82,6 +102,11 @@
         <option value="F:/Interview_Python/Decorator/ex6.py" />
         <option value="F:/Interview_Python/Decorator/quick_sort.py" />
         <option value="F:/Interview_Python/Decorator/ex7.py" />
+        <option value="F:/Interview_Python/Decorator/ex8.py" />
+        <option value="F:/Interview_Python/Decorator/ex9.py" />
+        <option value="F:/Interview_Python/Decorator/ex10.py" />
+        <option value="F:/Interview_Python/Decorator/ex11.py" />
+        <option value="F:/Interview_Python/Decorator/ex12.py" />
       </list>
     </option>
   </component>
@@ -92,8 +117,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
+    <option name="x" value="754" />
+    <option name="width" value="612" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -147,8 +172,8 @@
       <recent name="F:\Interview_Python\Decorator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex7">
-    <configuration default="false" name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex12">
+    <configuration default="false" name="ex8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -161,12 +186,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Interview_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex4.py" />
+      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,12 +204,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Interview_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex5.py" />
+      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,12 +222,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Interview_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex6.py" />
+      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -215,12 +240,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Interview_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/quick_sort.py" />
+      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,7 +258,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Interview_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex7.py" />
+      <option name="SCRIPT_NAME" value="F:/Interview_Python/Decorator/ex12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -466,19 +491,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.learnflask" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex6" />
-      <item index="4" class="java.lang.String" itemvalue="Python.quick_sort" />
-      <item index="5" class="java.lang.String" itemvalue="Python.ex7" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex11" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ex12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex7" />
-        <item index="1" class="java.lang.String" itemvalue="Python.quick_sort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex12" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex9" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex8" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470153554535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercise">
+      <created>1470239704817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1470239704817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -530,16 +562,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <frame x="754" y="0" width="612" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28089887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2807971" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33496732" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27684563" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38758388" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24183007" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -598,47 +630,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/Interview_Python/Decorator/ex5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Interview_Python/Decorator/ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="84" column="14" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Interview_Python/Decorator/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Interview_Python/Decorator/ex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Interview_Python/Decorator/ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/Interview_Python/Decorator/decorators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -930,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -938,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,14 +948,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://F:/Interview_Python/Decorator/ex7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="378">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Interview_Python/Decorator/ex9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Interview_Python/Decorator/ex8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Interview_Python/Decorator/ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <marker date="1470312618578" expanded="true" signature="412:481" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Interview_Python/Decorator/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Interview_Python/Decorator/ex12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
